@@ -51,6 +51,7 @@
   },
   "pnpm": {
     "overrides": {
+      "source-map-js": "1.2.2",
       "semver": "5.7.2",
       "picomatch": "2.3.2",
       "nanoid": "3.3.18",
