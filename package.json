@@ -51,6 +51,7 @@
   },
   "pnpm": {
     "overrides": {
+      "undici": "5.19.1",
       "source-map-js": "1.2.2",
       "semver": "5.7.2",
       "picomatch": "2.3.2",
