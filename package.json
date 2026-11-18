@@ -51,6 +51,7 @@
   },
   "pnpm": {
     "overrides": {
+      "braces": "3.0.3",
       "axios": "1.16.0"
     }
   }
