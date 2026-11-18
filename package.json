@@ -48,5 +48,10 @@
     "singleQuote": true,
     "tabWidth": 2,
     "trailingComma": "none"
+  },
+  "pnpm": {
+    "overrides": {
+      "axios": "1.16.0"
+    }
   }
 }
