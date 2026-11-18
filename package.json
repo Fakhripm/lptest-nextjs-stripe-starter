@@ -51,6 +51,7 @@
   },
   "pnpm": {
     "overrides": {
+      "dset": "3.1.4",
       "browserslist": "4.28.7",
       "braces": "3.0.3",
       "axios": "1.16.0"
